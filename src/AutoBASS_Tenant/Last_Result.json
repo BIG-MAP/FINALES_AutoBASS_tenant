@@ -1,0 +1,953 @@
+{
+    "data": {
+        "batch_output": [
+            {
+                "cell_info": {
+                    "cell_name": "Cell_57",
+                    "uuid": "c80835df-b5bb-4819-8fed-d360ff0a4734",
+                    "assembly_date": "2023_11_24",
+                    "batch": "Batch_8",
+                    "anode_info": {
+                        "name": "Gr",
+                        "uuid": null,
+                        "preparation_date": "unknown",
+                        "batch": "1",
+                        "location": {
+                            "address": "KIT, HIU, Ulm",
+                            "detail_1": "AutoBASS",
+                            "detail_2": "Tray_9"
+                        }
+                    },
+                    "cathode_info": {
+                        "name": "LNO",
+                        "uuid": null,
+                        "preparation_date": "unknown",
+                        "batch": "1",
+                        "location": {
+                            "address": "KIT, HIU, Ulm",
+                            "detail_1": "AutoBASS",
+                            "detail_2": "Tray_9"
+                        }
+                    },
+                    "electrolyte_info": {
+                        "name": "f254feef-7c0d-4ffa-8014-52748ab6a7d5",
+                        "uuid": "c1fe5145-e5e8-4f91-8805-6d233eced138_sample_ca1bae74-a5ce-4fbf-84c8-0f0265cdc1d1",
+                        "preparation_date": "24.11.2023",
+                        "batch": "c1fe5145-e5e8-4f91-8805-6d233eced138_batch_a445ec7b-6aaf-402a-9fd6-fc7560a9c266",
+                        "location": null
+                    },
+                    "cell_location": {
+                        "address": "KIT, HIU, Ulm",
+                        "detail_1": "AutoBASS",
+                        "detail_2": "Tray_9"
+                    }
+                },
+                "cell": {
+                    "battery_chemistry": {
+                        "electrolyte": [
+                            {
+                                "chemical": {
+                                    "SMILES": "C1COC(=O)O1",
+                                    "InChIKey": "KMTRUDSVKNLOMY-UHFFFAOYSA-N"
+                                },
+                                "fraction": 0.494578093290329,
+                                "fraction_type": "molPerMol"
+                            },
+                            {
+                                "chemical": {
+                                    "SMILES": "[Li+].F[P-](F)(F)(F)(F)F",
+                                    "InChIKey": "AXPLOJNSKRXQPA-UHFFFAOYSA-N"
+                                },
+                                "fraction": 0.08027473092079163,
+                                "fraction_type": "molPerMol"
+                            },
+                            {
+                                "chemical": {
+                                    "SMILES": "CCOC(=O)OC",
+                                    "InChIKey": "JBTWLSYIZRCDFO-UHFFFAOYSA-N"
+                                },
+                                "fraction": 0.4251472055912018,
+                                "fraction_type": "molPerMol"
+                            }
+                        ],
+                        "anode": {
+                            "material": [
+                                {
+                                    "chemical": {
+                                        "SMILES": "[C]",
+                                        "InChIKey": "OKTJSMMVPCPJKN-UHFFFAOYSA-N"
+                                    },
+                                    "fraction": 1.0,
+                                    "fraction_type": "molPerMol"
+                                }
+                            ],
+                            "mass_loading": 1.0,
+                            "size": 1.7663
+                        },
+                        "cathode": {
+                            "material": [
+                                {
+                                    "chemical": {
+                                        "SMILES": "[Li+].[O-][Ni]=O",
+                                        "InChIKey": "VROAXDSNYPAOBJ-UHFFFAOYSA-N"
+                                    },
+                                    "fraction": 1.0,
+                                    "fraction_type": "molPerMol"
+                                }
+                            ],
+                            "mass_loading": 1.0,
+                            "size": 1.5386
+                        }
+                    },
+                    "separator": {
+                        "material": "Celgard(R) 2325",
+                        "size": 2.0096
+                    },
+                    "electrolyte_volume": 35.0
+                },
+                "manufacturing_img": "[No9]_Cathode_Drop_2023_11_24.jpg",
+                "meta": {
+                    "success": true,
+                    "rating": 4
+                },
+                "temperature": 300.0,
+                "sealing_time": "2023_11_24-10:50:09"
+            },
+            {
+                "cell_info": {
+                    "cell_name": "Cell_58",
+                    "uuid": "1bbeeab5-a922-4625-bd33-3b5cc1e717b0",
+                    "assembly_date": "2023_11_24",
+                    "batch": "Batch_8",
+                    "anode_info": {
+                        "name": "Gr",
+                        "uuid": null,
+                        "preparation_date": "unknown",
+                        "batch": "1",
+                        "location": {
+                            "address": "KIT, HIU, Ulm",
+                            "detail_1": "AutoBASS",
+                            "detail_2": "Tray_10"
+                        }
+                    },
+                    "cathode_info": {
+                        "name": "LNO",
+                        "uuid": null,
+                        "preparation_date": "unknown",
+                        "batch": "1",
+                        "location": {
+                            "address": "KIT, HIU, Ulm",
+                            "detail_1": "AutoBASS",
+                            "detail_2": "Tray_10"
+                        }
+                    },
+                    "electrolyte_info": {
+                        "name": "f254feef-7c0d-4ffa-8014-52748ab6a7d5",
+                        "uuid": "c1fe5145-e5e8-4f91-8805-6d233eced138_sample_ca1bae74-a5ce-4fbf-84c8-0f0265cdc1d1",
+                        "preparation_date": "24.11.2023",
+                        "batch": "c1fe5145-e5e8-4f91-8805-6d233eced138_batch_a445ec7b-6aaf-402a-9fd6-fc7560a9c266",
+                        "location": null
+                    },
+                    "cell_location": {
+                        "address": "KIT, HIU, Ulm",
+                        "detail_1": "AutoBASS",
+                        "detail_2": "Tray_10"
+                    }
+                },
+                "cell": {
+                    "battery_chemistry": {
+                        "electrolyte": [
+                            {
+                                "chemical": {
+                                    "SMILES": "C1COC(=O)O1",
+                                    "InChIKey": "KMTRUDSVKNLOMY-UHFFFAOYSA-N"
+                                },
+                                "fraction": 0.494578093290329,
+                                "fraction_type": "molPerMol"
+                            },
+                            {
+                                "chemical": {
+                                    "SMILES": "[Li+].F[P-](F)(F)(F)(F)F",
+                                    "InChIKey": "AXPLOJNSKRXQPA-UHFFFAOYSA-N"
+                                },
+                                "fraction": 0.08027473092079163,
+                                "fraction_type": "molPerMol"
+                            },
+                            {
+                                "chemical": {
+                                    "SMILES": "CCOC(=O)OC",
+                                    "InChIKey": "JBTWLSYIZRCDFO-UHFFFAOYSA-N"
+                                },
+                                "fraction": 0.4251472055912018,
+                                "fraction_type": "molPerMol"
+                            }
+                        ],
+                        "anode": {
+                            "material": [
+                                {
+                                    "chemical": {
+                                        "SMILES": "[C]",
+                                        "InChIKey": "OKTJSMMVPCPJKN-UHFFFAOYSA-N"
+                                    },
+                                    "fraction": 1.0,
+                                    "fraction_type": "molPerMol"
+                                }
+                            ],
+                            "mass_loading": 1.0,
+                            "size": 1.7663
+                        },
+                        "cathode": {
+                            "material": [
+                                {
+                                    "chemical": {
+                                        "SMILES": "[Li+].[O-][Ni]=O",
+                                        "InChIKey": "VROAXDSNYPAOBJ-UHFFFAOYSA-N"
+                                    },
+                                    "fraction": 1.0,
+                                    "fraction_type": "molPerMol"
+                                }
+                            ],
+                            "mass_loading": 1.0,
+                            "size": 1.5386
+                        }
+                    },
+                    "separator": {
+                        "material": "Celgard(R) 2325",
+                        "size": 2.0096
+                    },
+                    "electrolyte_volume": 35.0
+                },
+                "manufacturing_img": "[No10]_Cathode_Drop_2023_11_24.jpg",
+                "meta": {
+                    "success": true,
+                    "rating": 4
+                },
+                "temperature": 300.0,
+                "sealing_time": "2023_11_24-10:53:21"
+            },
+            {
+                "cell_info": {
+                    "cell_name": "Cell_59",
+                    "uuid": "6a68cf0e-6e60-417f-83e3-ea86b1c2d569",
+                    "assembly_date": "2023_11_24",
+                    "batch": "Batch_8",
+                    "anode_info": {
+                        "name": "Gr",
+                        "uuid": null,
+                        "preparation_date": "unknown",
+                        "batch": "1",
+                        "location": {
+                            "address": "KIT, HIU, Ulm",
+                            "detail_1": "AutoBASS",
+                            "detail_2": "Tray_11"
+                        }
+                    },
+                    "cathode_info": {
+                        "name": "LNO",
+                        "uuid": null,
+                        "preparation_date": "unknown",
+                        "batch": "1",
+                        "location": {
+                            "address": "KIT, HIU, Ulm",
+                            "detail_1": "AutoBASS",
+                            "detail_2": "Tray_11"
+                        }
+                    },
+                    "electrolyte_info": {
+                        "name": "f254feef-7c0d-4ffa-8014-52748ab6a7d5",
+                        "uuid": "c1fe5145-e5e8-4f91-8805-6d233eced138_sample_ca1bae74-a5ce-4fbf-84c8-0f0265cdc1d1",
+                        "preparation_date": "24.11.2023",
+                        "batch": "c1fe5145-e5e8-4f91-8805-6d233eced138_batch_a445ec7b-6aaf-402a-9fd6-fc7560a9c266",
+                        "location": null
+                    },
+                    "cell_location": {
+                        "address": "KIT, HIU, Ulm",
+                        "detail_1": "AutoBASS",
+                        "detail_2": "Tray_11"
+                    }
+                },
+                "cell": {
+                    "battery_chemistry": {
+                        "electrolyte": [
+                            {
+                                "chemical": {
+                                    "SMILES": "C1COC(=O)O1",
+                                    "InChIKey": "KMTRUDSVKNLOMY-UHFFFAOYSA-N"
+                                },
+                                "fraction": 0.494578093290329,
+                                "fraction_type": "molPerMol"
+                            },
+                            {
+                                "chemical": {
+                                    "SMILES": "[Li+].F[P-](F)(F)(F)(F)F",
+                                    "InChIKey": "AXPLOJNSKRXQPA-UHFFFAOYSA-N"
+                                },
+                                "fraction": 0.08027473092079163,
+                                "fraction_type": "molPerMol"
+                            },
+                            {
+                                "chemical": {
+                                    "SMILES": "CCOC(=O)OC",
+                                    "InChIKey": "JBTWLSYIZRCDFO-UHFFFAOYSA-N"
+                                },
+                                "fraction": 0.4251472055912018,
+                                "fraction_type": "molPerMol"
+                            }
+                        ],
+                        "anode": {
+                            "material": [
+                                {
+                                    "chemical": {
+                                        "SMILES": "[C]",
+                                        "InChIKey": "OKTJSMMVPCPJKN-UHFFFAOYSA-N"
+                                    },
+                                    "fraction": 1.0,
+                                    "fraction_type": "molPerMol"
+                                }
+                            ],
+                            "mass_loading": 1.0,
+                            "size": 1.7663
+                        },
+                        "cathode": {
+                            "material": [
+                                {
+                                    "chemical": {
+                                        "SMILES": "[Li+].[O-][Ni]=O",
+                                        "InChIKey": "VROAXDSNYPAOBJ-UHFFFAOYSA-N"
+                                    },
+                                    "fraction": 1.0,
+                                    "fraction_type": "molPerMol"
+                                }
+                            ],
+                            "mass_loading": 1.0,
+                            "size": 1.5386
+                        }
+                    },
+                    "separator": {
+                        "material": "Celgard(R) 2325",
+                        "size": 2.0096
+                    },
+                    "electrolyte_volume": 35.0
+                },
+                "manufacturing_img": "[No11]_Cathode_Drop_2023_11_24.jpg",
+                "meta": {
+                    "success": true,
+                    "rating": 4
+                },
+                "temperature": 300.0,
+                "sealing_time": "2023_11_24-10:56:33"
+            },
+            {
+                "cell_info": {
+                    "cell_name": "Cell_60",
+                    "uuid": "655bc442-b269-4b33-a03a-e7d12e7bf979",
+                    "assembly_date": "2023_11_24",
+                    "batch": "Batch_8",
+                    "anode_info": {
+                        "name": "Gr",
+                        "uuid": null,
+                        "preparation_date": "unknown",
+                        "batch": "1",
+                        "location": {
+                            "address": "KIT, HIU, Ulm",
+                            "detail_1": "AutoBASS",
+                            "detail_2": "Tray_12"
+                        }
+                    },
+                    "cathode_info": {
+                        "name": "LNO",
+                        "uuid": null,
+                        "preparation_date": "unknown",
+                        "batch": "1",
+                        "location": {
+                            "address": "KIT, HIU, Ulm",
+                            "detail_1": "AutoBASS",
+                            "detail_2": "Tray_12"
+                        }
+                    },
+                    "electrolyte_info": {
+                        "name": "f254feef-7c0d-4ffa-8014-52748ab6a7d5",
+                        "uuid": "c1fe5145-e5e8-4f91-8805-6d233eced138_sample_ca1bae74-a5ce-4fbf-84c8-0f0265cdc1d1",
+                        "preparation_date": "24.11.2023",
+                        "batch": "c1fe5145-e5e8-4f91-8805-6d233eced138_batch_a445ec7b-6aaf-402a-9fd6-fc7560a9c266",
+                        "location": null
+                    },
+                    "cell_location": {
+                        "address": "KIT, HIU, Ulm",
+                        "detail_1": "AutoBASS",
+                        "detail_2": "Tray_12"
+                    }
+                },
+                "cell": {
+                    "battery_chemistry": {
+                        "electrolyte": [
+                            {
+                                "chemical": {
+                                    "SMILES": "C1COC(=O)O1",
+                                    "InChIKey": "KMTRUDSVKNLOMY-UHFFFAOYSA-N"
+                                },
+                                "fraction": 0.494578093290329,
+                                "fraction_type": "molPerMol"
+                            },
+                            {
+                                "chemical": {
+                                    "SMILES": "[Li+].F[P-](F)(F)(F)(F)F",
+                                    "InChIKey": "AXPLOJNSKRXQPA-UHFFFAOYSA-N"
+                                },
+                                "fraction": 0.08027473092079163,
+                                "fraction_type": "molPerMol"
+                            },
+                            {
+                                "chemical": {
+                                    "SMILES": "CCOC(=O)OC",
+                                    "InChIKey": "JBTWLSYIZRCDFO-UHFFFAOYSA-N"
+                                },
+                                "fraction": 0.4251472055912018,
+                                "fraction_type": "molPerMol"
+                            }
+                        ],
+                        "anode": {
+                            "material": [
+                                {
+                                    "chemical": {
+                                        "SMILES": "[C]",
+                                        "InChIKey": "OKTJSMMVPCPJKN-UHFFFAOYSA-N"
+                                    },
+                                    "fraction": 1.0,
+                                    "fraction_type": "molPerMol"
+                                }
+                            ],
+                            "mass_loading": 1.0,
+                            "size": 1.7663
+                        },
+                        "cathode": {
+                            "material": [
+                                {
+                                    "chemical": {
+                                        "SMILES": "[Li+].[O-][Ni]=O",
+                                        "InChIKey": "VROAXDSNYPAOBJ-UHFFFAOYSA-N"
+                                    },
+                                    "fraction": 1.0,
+                                    "fraction_type": "molPerMol"
+                                }
+                            ],
+                            "mass_loading": 1.0,
+                            "size": 1.5386
+                        }
+                    },
+                    "separator": {
+                        "material": "Celgard(R) 2325",
+                        "size": 2.0096
+                    },
+                    "electrolyte_volume": 35.0
+                },
+                "manufacturing_img": "[No12]_Cathode_Drop_2023_11_24.jpg",
+                "meta": {
+                    "success": true,
+                    "rating": 4
+                },
+                "temperature": 300.0,
+                "sealing_time": "2023_11_24-10:59:38"
+            },
+            {
+                "cell_info": {
+                    "cell_name": "Cell_61",
+                    "uuid": "ea8d4d45-f35d-46eb-840e-81dbd18762ea",
+                    "assembly_date": "2023_11_24",
+                    "batch": "Batch_8",
+                    "anode_info": {
+                        "name": "Gr",
+                        "uuid": null,
+                        "preparation_date": "unknown",
+                        "batch": "1",
+                        "location": {
+                            "address": "KIT, HIU, Ulm",
+                            "detail_1": "AutoBASS",
+                            "detail_2": "Tray_13"
+                        }
+                    },
+                    "cathode_info": {
+                        "name": "LNO",
+                        "uuid": null,
+                        "preparation_date": "unknown",
+                        "batch": "1",
+                        "location": {
+                            "address": "KIT, HIU, Ulm",
+                            "detail_1": "AutoBASS",
+                            "detail_2": "Tray_13"
+                        }
+                    },
+                    "electrolyte_info": {
+                        "name": "f254feef-7c0d-4ffa-8014-52748ab6a7d5",
+                        "uuid": "c1fe5145-e5e8-4f91-8805-6d233eced138_sample_ca1bae74-a5ce-4fbf-84c8-0f0265cdc1d1",
+                        "preparation_date": "24.11.2023",
+                        "batch": "c1fe5145-e5e8-4f91-8805-6d233eced138_batch_a445ec7b-6aaf-402a-9fd6-fc7560a9c266",
+                        "location": null
+                    },
+                    "cell_location": {
+                        "address": "KIT, HIU, Ulm",
+                        "detail_1": "AutoBASS",
+                        "detail_2": "Tray_13"
+                    }
+                },
+                "cell": {
+                    "battery_chemistry": {
+                        "electrolyte": [
+                            {
+                                "chemical": {
+                                    "SMILES": "C1COC(=O)O1",
+                                    "InChIKey": "KMTRUDSVKNLOMY-UHFFFAOYSA-N"
+                                },
+                                "fraction": 0.494578093290329,
+                                "fraction_type": "molPerMol"
+                            },
+                            {
+                                "chemical": {
+                                    "SMILES": "[Li+].F[P-](F)(F)(F)(F)F",
+                                    "InChIKey": "AXPLOJNSKRXQPA-UHFFFAOYSA-N"
+                                },
+                                "fraction": 0.08027473092079163,
+                                "fraction_type": "molPerMol"
+                            },
+                            {
+                                "chemical": {
+                                    "SMILES": "CCOC(=O)OC",
+                                    "InChIKey": "JBTWLSYIZRCDFO-UHFFFAOYSA-N"
+                                },
+                                "fraction": 0.4251472055912018,
+                                "fraction_type": "molPerMol"
+                            }
+                        ],
+                        "anode": {
+                            "material": [
+                                {
+                                    "chemical": {
+                                        "SMILES": "[C]",
+                                        "InChIKey": "OKTJSMMVPCPJKN-UHFFFAOYSA-N"
+                                    },
+                                    "fraction": 1.0,
+                                    "fraction_type": "molPerMol"
+                                }
+                            ],
+                            "mass_loading": 1.0,
+                            "size": 1.7663
+                        },
+                        "cathode": {
+                            "material": [
+                                {
+                                    "chemical": {
+                                        "SMILES": "[Li+].[O-][Ni]=O",
+                                        "InChIKey": "VROAXDSNYPAOBJ-UHFFFAOYSA-N"
+                                    },
+                                    "fraction": 1.0,
+                                    "fraction_type": "molPerMol"
+                                }
+                            ],
+                            "mass_loading": 1.0,
+                            "size": 1.5386
+                        }
+                    },
+                    "separator": {
+                        "material": "Celgard(R) 2325",
+                        "size": 2.0096
+                    },
+                    "electrolyte_volume": 35.0
+                },
+                "manufacturing_img": "[No13]_Cathode_Drop_2023_11_24.jpg",
+                "meta": {
+                    "success": true,
+                    "rating": 4
+                },
+                "temperature": 300.0,
+                "sealing_time": "2023_11_24-11:02:43"
+            },
+            {
+                "cell_info": {
+                    "cell_name": "Cell_62",
+                    "uuid": "e38e2935-ddc9-4b57-9a61-98316bd06de6",
+                    "assembly_date": "2023_11_24",
+                    "batch": "Batch_8",
+                    "anode_info": {
+                        "name": "Gr",
+                        "uuid": null,
+                        "preparation_date": "unknown",
+                        "batch": "1",
+                        "location": {
+                            "address": "KIT, HIU, Ulm",
+                            "detail_1": "AutoBASS",
+                            "detail_2": "Tray_14"
+                        }
+                    },
+                    "cathode_info": {
+                        "name": "LNO",
+                        "uuid": null,
+                        "preparation_date": "unknown",
+                        "batch": "1",
+                        "location": {
+                            "address": "KIT, HIU, Ulm",
+                            "detail_1": "AutoBASS",
+                            "detail_2": "Tray_14"
+                        }
+                    },
+                    "electrolyte_info": {
+                        "name": "f254feef-7c0d-4ffa-8014-52748ab6a7d5",
+                        "uuid": "c1fe5145-e5e8-4f91-8805-6d233eced138_sample_ca1bae74-a5ce-4fbf-84c8-0f0265cdc1d1",
+                        "preparation_date": "24.11.2023",
+                        "batch": "c1fe5145-e5e8-4f91-8805-6d233eced138_batch_a445ec7b-6aaf-402a-9fd6-fc7560a9c266",
+                        "location": null
+                    },
+                    "cell_location": {
+                        "address": "KIT, HIU, Ulm",
+                        "detail_1": "AutoBASS",
+                        "detail_2": "Tray_14"
+                    }
+                },
+                "cell": {
+                    "battery_chemistry": {
+                        "electrolyte": [
+                            {
+                                "chemical": {
+                                    "SMILES": "C1COC(=O)O1",
+                                    "InChIKey": "KMTRUDSVKNLOMY-UHFFFAOYSA-N"
+                                },
+                                "fraction": 0.494578093290329,
+                                "fraction_type": "molPerMol"
+                            },
+                            {
+                                "chemical": {
+                                    "SMILES": "[Li+].F[P-](F)(F)(F)(F)F",
+                                    "InChIKey": "AXPLOJNSKRXQPA-UHFFFAOYSA-N"
+                                },
+                                "fraction": 0.08027473092079163,
+                                "fraction_type": "molPerMol"
+                            },
+                            {
+                                "chemical": {
+                                    "SMILES": "CCOC(=O)OC",
+                                    "InChIKey": "JBTWLSYIZRCDFO-UHFFFAOYSA-N"
+                                },
+                                "fraction": 0.4251472055912018,
+                                "fraction_type": "molPerMol"
+                            }
+                        ],
+                        "anode": {
+                            "material": [
+                                {
+                                    "chemical": {
+                                        "SMILES": "[C]",
+                                        "InChIKey": "OKTJSMMVPCPJKN-UHFFFAOYSA-N"
+                                    },
+                                    "fraction": 1.0,
+                                    "fraction_type": "molPerMol"
+                                }
+                            ],
+                            "mass_loading": 1.0,
+                            "size": 1.7663
+                        },
+                        "cathode": {
+                            "material": [
+                                {
+                                    "chemical": {
+                                        "SMILES": "[Li+].[O-][Ni]=O",
+                                        "InChIKey": "VROAXDSNYPAOBJ-UHFFFAOYSA-N"
+                                    },
+                                    "fraction": 1.0,
+                                    "fraction_type": "molPerMol"
+                                }
+                            ],
+                            "mass_loading": 1.0,
+                            "size": 1.5386
+                        }
+                    },
+                    "separator": {
+                        "material": "Celgard(R) 2325",
+                        "size": 2.0096
+                    },
+                    "electrolyte_volume": 35.0
+                },
+                "manufacturing_img": "[No14]_Cathode_Drop_2023_11_24.jpg",
+                "meta": {
+                    "success": true,
+                    "rating": 4
+                },
+                "temperature": 300.0,
+                "sealing_time": "2023_11_24-11:05:47"
+            },
+            {
+                "cell_info": {
+                    "cell_name": "Cell_63",
+                    "uuid": "2b9c75e2-cbec-4eb2-8469-357a9e24646f",
+                    "assembly_date": "2023_11_24",
+                    "batch": "Batch_8",
+                    "anode_info": {
+                        "name": "Gr",
+                        "uuid": null,
+                        "preparation_date": "unknown",
+                        "batch": "1",
+                        "location": {
+                            "address": "KIT, HIU, Ulm",
+                            "detail_1": "AutoBASS",
+                            "detail_2": "Tray_15"
+                        }
+                    },
+                    "cathode_info": {
+                        "name": "LNO",
+                        "uuid": null,
+                        "preparation_date": "unknown",
+                        "batch": "1",
+                        "location": {
+                            "address": "KIT, HIU, Ulm",
+                            "detail_1": "AutoBASS",
+                            "detail_2": "Tray_15"
+                        }
+                    },
+                    "electrolyte_info": {
+                        "name": "f254feef-7c0d-4ffa-8014-52748ab6a7d5",
+                        "uuid": "c1fe5145-e5e8-4f91-8805-6d233eced138_sample_ca1bae74-a5ce-4fbf-84c8-0f0265cdc1d1",
+                        "preparation_date": "24.11.2023",
+                        "batch": "c1fe5145-e5e8-4f91-8805-6d233eced138_batch_a445ec7b-6aaf-402a-9fd6-fc7560a9c266",
+                        "location": null
+                    },
+                    "cell_location": {
+                        "address": "KIT, HIU, Ulm",
+                        "detail_1": "AutoBASS",
+                        "detail_2": "Tray_15"
+                    }
+                },
+                "cell": {
+                    "battery_chemistry": {
+                        "electrolyte": [
+                            {
+                                "chemical": {
+                                    "SMILES": "C1COC(=O)O1",
+                                    "InChIKey": "KMTRUDSVKNLOMY-UHFFFAOYSA-N"
+                                },
+                                "fraction": 0.494578093290329,
+                                "fraction_type": "molPerMol"
+                            },
+                            {
+                                "chemical": {
+                                    "SMILES": "[Li+].F[P-](F)(F)(F)(F)F",
+                                    "InChIKey": "AXPLOJNSKRXQPA-UHFFFAOYSA-N"
+                                },
+                                "fraction": 0.08027473092079163,
+                                "fraction_type": "molPerMol"
+                            },
+                            {
+                                "chemical": {
+                                    "SMILES": "CCOC(=O)OC",
+                                    "InChIKey": "JBTWLSYIZRCDFO-UHFFFAOYSA-N"
+                                },
+                                "fraction": 0.4251472055912018,
+                                "fraction_type": "molPerMol"
+                            }
+                        ],
+                        "anode": {
+                            "material": [
+                                {
+                                    "chemical": {
+                                        "SMILES": "[C]",
+                                        "InChIKey": "OKTJSMMVPCPJKN-UHFFFAOYSA-N"
+                                    },
+                                    "fraction": 1.0,
+                                    "fraction_type": "molPerMol"
+                                }
+                            ],
+                            "mass_loading": 1.0,
+                            "size": 1.7663
+                        },
+                        "cathode": {
+                            "material": [
+                                {
+                                    "chemical": {
+                                        "SMILES": "[Li+].[O-][Ni]=O",
+                                        "InChIKey": "VROAXDSNYPAOBJ-UHFFFAOYSA-N"
+                                    },
+                                    "fraction": 1.0,
+                                    "fraction_type": "molPerMol"
+                                }
+                            ],
+                            "mass_loading": 1.0,
+                            "size": 1.5386
+                        }
+                    },
+                    "separator": {
+                        "material": "Celgard(R) 2325",
+                        "size": 2.0096
+                    },
+                    "electrolyte_volume": 35.0
+                },
+                "manufacturing_img": "[No15]_Cathode_Drop_2023_11_24.jpg",
+                "meta": {
+                    "success": true,
+                    "rating": 4
+                },
+                "temperature": 300.0,
+                "sealing_time": "2023_11_24-11:08:53"
+            },
+            {
+                "cell_info": {
+                    "cell_name": "Cell_64",
+                    "uuid": "21cfc4f1-59ed-4046-96b1-19bb19acf5c0",
+                    "assembly_date": "2023_11_24",
+                    "batch": "Batch_8",
+                    "anode_info": {
+                        "name": "Gr",
+                        "uuid": null,
+                        "preparation_date": "unknown",
+                        "batch": "1",
+                        "location": {
+                            "address": "KIT, HIU, Ulm",
+                            "detail_1": "AutoBASS",
+                            "detail_2": "Tray_16"
+                        }
+                    },
+                    "cathode_info": {
+                        "name": "LNO",
+                        "uuid": null,
+                        "preparation_date": "unknown",
+                        "batch": "1",
+                        "location": {
+                            "address": "KIT, HIU, Ulm",
+                            "detail_1": "AutoBASS",
+                            "detail_2": "Tray_16"
+                        }
+                    },
+                    "electrolyte_info": {
+                        "name": "f254feef-7c0d-4ffa-8014-52748ab6a7d5",
+                        "uuid": "c1fe5145-e5e8-4f91-8805-6d233eced138_sample_ca1bae74-a5ce-4fbf-84c8-0f0265cdc1d1",
+                        "preparation_date": "24.11.2023",
+                        "batch": "c1fe5145-e5e8-4f91-8805-6d233eced138_batch_a445ec7b-6aaf-402a-9fd6-fc7560a9c266",
+                        "location": null
+                    },
+                    "cell_location": {
+                        "address": "KIT, HIU, Ulm",
+                        "detail_1": "AutoBASS",
+                        "detail_2": "Tray_16"
+                    }
+                },
+                "cell": {
+                    "battery_chemistry": {
+                        "electrolyte": [
+                            {
+                                "chemical": {
+                                    "SMILES": "C1COC(=O)O1",
+                                    "InChIKey": "KMTRUDSVKNLOMY-UHFFFAOYSA-N"
+                                },
+                                "fraction": 0.494578093290329,
+                                "fraction_type": "molPerMol"
+                            },
+                            {
+                                "chemical": {
+                                    "SMILES": "[Li+].F[P-](F)(F)(F)(F)F",
+                                    "InChIKey": "AXPLOJNSKRXQPA-UHFFFAOYSA-N"
+                                },
+                                "fraction": 0.08027473092079163,
+                                "fraction_type": "molPerMol"
+                            },
+                            {
+                                "chemical": {
+                                    "SMILES": "CCOC(=O)OC",
+                                    "InChIKey": "JBTWLSYIZRCDFO-UHFFFAOYSA-N"
+                                },
+                                "fraction": 0.4251472055912018,
+                                "fraction_type": "molPerMol"
+                            }
+                        ],
+                        "anode": {
+                            "material": [
+                                {
+                                    "chemical": {
+                                        "SMILES": "[C]",
+                                        "InChIKey": "OKTJSMMVPCPJKN-UHFFFAOYSA-N"
+                                    },
+                                    "fraction": 1.0,
+                                    "fraction_type": "molPerMol"
+                                }
+                            ],
+                            "mass_loading": 1.0,
+                            "size": 1.7663
+                        },
+                        "cathode": {
+                            "material": [
+                                {
+                                    "chemical": {
+                                        "SMILES": "[Li+].[O-][Ni]=O",
+                                        "InChIKey": "VROAXDSNYPAOBJ-UHFFFAOYSA-N"
+                                    },
+                                    "fraction": 1.0,
+                                    "fraction_type": "molPerMol"
+                                }
+                            ],
+                            "mass_loading": 1.0,
+                            "size": 1.5386
+                        }
+                    },
+                    "separator": {
+                        "material": "Celgard(R) 2325",
+                        "size": 2.0096
+                    },
+                    "electrolyte_volume": 35.0
+                },
+                "manufacturing_img": "[No16]_Cathode_Drop_2023_11_24.jpg",
+                "meta": {
+                    "success": true,
+                    "rating": 4
+                },
+                "temperature": 300.0,
+                "sealing_time": "2023_11_24-11:12:05"
+            }
+        ],
+        "batch_id": "6701d077-b193-4de2-bba0-21c81df3e406"
+    },
+    "quantity": "cell_assembly",
+    "parameters": {
+        "autobass_assembly": {
+            "cell": {
+                "battery_chemistry": {
+                    "electrolyte": [
+                        {
+                            "chemical": {
+                                "SMILES": "C1COC(=O)O1",
+                                "InChIKey": "KMTRUDSVKNLOMY-UHFFFAOYSA-N"
+                            },
+                            "fraction": 0.494578093290329,
+                            "fraction_type": "molPerMol"
+                        },
+                        {
+                            "chemical": {
+                                "SMILES": "[Li+].F[P-](F)(F)(F)(F)F",
+                                "InChIKey": "AXPLOJNSKRXQPA-UHFFFAOYSA-N"
+                            },
+                            "fraction": 0.08027473092079163,
+                            "fraction_type": "molPerMol"
+                        },
+                        {
+                            "chemical": {
+                                "SMILES": "CCOC(=O)OC",
+                                "InChIKey": "JBTWLSYIZRCDFO-UHFFFAOYSA-N"
+                            },
+                            "fraction": 0.4251472055912018,
+                            "fraction_type": "molPerMol"
+                        }
+                    ]
+                },
+                "electrolyte_volume": 35
+            },
+            "cell_info": {
+                "electrolyte_info": {
+                    "name": "f254feef-7c0d-4ffa-8014-52748ab6a7d5",
+                    "uuid": "c1fe5145-e5e8-4f91-8805-6d233eced138_sample_ca1bae74-a5ce-4fbf-84c8-0f0265cdc1d1",
+                    "preparation_date": "24.11.2023",
+                    "batch": "c1fe5145-e5e8-4f91-8805-6d233eced138_batch_a445ec7b-6aaf-402a-9fd6-fc7560a9c266"
+                }
+            },
+            "batch_volume": 8
+        }
+    },
+    "tenant_uuid": "6e26c631-d955-4f0c-aa79-c1706c84099e",
+    "method": [
+        "autobass_assembly"
+    ],
+    "request_uuid": "6701d077-b193-4de2-bba0-21c81df3e406"
+}
