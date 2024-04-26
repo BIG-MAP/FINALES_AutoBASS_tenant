@@ -7,7 +7,7 @@ The AutoBASS tenant created for the use with FINALES.
 
 Documents related to this project and its broader context can be found on the respective Wiki page of this project: [https://github.com/BIG-MAP/FINALES2/wiki/Links](https://github.com/BIG-MAP/FINALES2/wiki/Links)
 
-Links to the other related tenants and FINALES:
+Links to FINALES:
 
 1. FINALES 2 latest version Github
 [https://github.com/BIG-MAP/FINALES2](https://github.com/BIG-MAP/FINALES2)
