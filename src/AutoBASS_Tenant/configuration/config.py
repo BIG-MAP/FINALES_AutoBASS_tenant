@@ -19,15 +19,144 @@ conf["method"] = {
     "name": "autobass_assembly",
     "quantity": "cell_assembly",
     "parameters": ["cell_info", "batch_volume"], # e.g. ["temperature", "composition"],
-    "limitations": {'cell_info': 
-                    {'batteryChemistry': 
-                     {'electrolyte': [[{'chemical': {'SMILES': 'w', 'InChIKey': 'ww'}, 'fraction': [{"minimum": 0.0, "maximum":1.0}], 'fraction_type': ['molPerMol']}]], 
-                      'anode': {'material': [[{'chemical': {'SMILES': 'w', 'InChIKey': 'ww'}, 'fraction': [{"minimum": 0.0, "maximum":1.0}], 'fraction_type': ['molPerMol']}]], 
-                                'mass_loading': [1.0, 1.1, 3.0, 3.1], 'size': [1.7663]}, 
-                        'cathode': {'material': [[{'chemical': {'SMILES': 'w', 'InChIKey': 'ww'}, 'fraction': [{"minimum": 0.0, "maximum":1.0}], 'fraction_type': ['molPerMol']}]], 
-                                'mass_loading': [1.0, 1.1, 3.0, 3.1], 'size': [1.5386]}, 
-                        'separator': {'material': ['Glasfiber'], 'size': [2.0096]}, 
-                        'electrolyte_volume': [{"minimum": 0.0, "maximum":80.0, 'step':5}]}, 'batch_volume': [{"minimum": 0.0, "maximum":64.0, 'step':1}]}  # e.g. {"temperature": {"minimum": 10, "maximum": 40}}
+    "limitations": {
+        "cell_info": {
+            "batteryChemistry": {
+              "electrolyte": [
+                [
+                  {
+                    "chemical": {
+                      "SMILES": "C1COC(=O)O1",
+                      "InChIKey": "KMTRUDSVKNLOMY-UHFFFAOYSA-N"
+                    },
+                    "fraction": [
+                      {
+                        "min": 0.0,
+                        "max": 1.0
+                      }
+                    ],
+                    "fraction_type": [
+                      "molPerMol"
+                    ]
+                  },
+                  {
+                    "chemical": {
+                      "SMILES": "[Li+].F[P-](F)(F)(F)(F)F",
+                      "InChIKey": "AXPLOJNSKRXQPA-UHFFFAOYSA-N"
+                    },
+                    "fraction": [
+                      {
+                        "min": 0.0,
+                        "max": 1.0
+                      }
+                    ],
+                    "fraction_type": [
+                      "molPerMol"
+                    ]
+                  },
+                  {
+                    "chemical": {
+                      "SMILES": "CCOC(=O)OC",
+                      "InChIKey": "JBTWLSYIZRCDFO-UHFFFAOYSA-N"
+                    },
+                    "fraction": [
+                      {
+                        "min": 0.0,
+                        "max": 1.0
+                      }
+                    ],
+                    "fraction_type": [
+                      "molPerMol"
+                    ]
+                  }
+                ]
+              ],
+              "anode": {
+                "material": [
+                  [
+                    {
+                      "chemical": {
+                        "SMILES": [
+                          "[C]"
+                        ],
+                        "InChIKey": [
+                          "OKTJSMMVPCPJKN-UHFFFAOYSA-N"
+                        ]
+                      },
+                      "fraction": [
+                        {
+                          "min": 1.0,
+                          "max": 1.0
+                        }
+                      ],
+                      "fraction_type": [
+                        "molPerMol"
+                      ]
+                    }
+                  ]
+                ],
+                "mass_loading": [
+                  {
+                    "min": 1.0,
+                    "max": 1.0
+                  }
+                ]
+              },
+              "cathode": {
+                "material": [
+                  [
+                    {
+                      "chemical": {
+                        "SMILES": [
+                          "[Li+].[O-][Ni]=O"
+                        ],
+                        "InChIKey": [
+                          "VROAXDSNYPAOBJ-UHFFFAOYSA-N"
+                        ]
+                      },
+                      "fraction": [
+                        {
+                          "min": 1.0,
+                          "max": 1.0
+                        }
+                      ],
+                      "fraction_type": [
+                        "molPerMol"
+                      ]
+                    }
+                  ]
+                ],
+                "mass_loading": [
+                  {
+                    "min": 1.0,
+                    "max": 1.0
+                  }
+                ]
+              },
+              "separator": {
+                "material": [
+                  "Celgard(R) 2325"
+                ],
+                "size": [
+                  2.0096
+                ]
+              },
+              "electrolyte_volume": [
+                {
+                  "minimum": 10.0,
+                  "maximum": 80.0,
+                  "step": 5.0
+                }
+              ]
+            },
+            "batch_volume": [
+              {
+                "minimum": 1,
+                "maximum": 64,
+                "step": 1
+              }
+            ]
+        }
     }
 }
 
