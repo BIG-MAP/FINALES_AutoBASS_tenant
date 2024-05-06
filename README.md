@@ -5,23 +5,29 @@ The AutoBASS tenant created for the use with FINALES.
 
 # Related Documents and Links to FINALES
 
-Documents related to this project and its broader context can be found on the respective Wiki page of this project: [https://github.com/BIG-MAP/FINALES2/wiki/Links](https://github.com/BIG-MAP/FINALES2/wiki/Links)
+Documents related to the FINALES project and its broader context can be found on the
+respective Wiki page of the project:
+[https://github.com/BIG-MAP/FINALES2/wiki/Links](https://github.com/BIG-MAP/FINALES2/wiki/Links)
 
 Links to FINALES:
 
-1. FINALES 2 latest version Github
+1. FINALES latest version Github
 [https://github.com/BIG-MAP/FINALES2](https://github.com/BIG-MAP/FINALES2)
 
-1. FINALES 2 used Version Zenodo
+1. FINALES v1.1.0 Zenodo
 [10.5281/zenodo.10987727](10.5281/zenodo.10987727)
 
-1. Schemas of FINALES 2
+1. Schemas of FINALES v1.1.0
 [https://github.com/BIG-MAP/FINALES2_schemas](https://github.com/BIG-MAP/FINALES2_schemas)
 
-1. AutoBASS Paper
+Further links:
+
+1. Robotic cell assembly to accelerate battery research  
+ _Bojing Zhang, Leon Merker, Alexey Sanin, and Helge S. Stein_  
 [https://doi.org/10.1039/D2DD00046F](https://doi.org/10.1039/D2DD00046F)
 
-1. AutoBASS Paper 2
+1. Apples to Apples: Shift from Mass Ratio to Additive Molecules per Electrode Area to Optimize Li-Ion Batteries  
+_Bojing Zhang, Leon Merker, Monika Vogler, Fuzhan Rahmanian, Helge S. Stein_  
 [10.26434/chemrxiv-2024-6nm0d-v2](10.26434/chemrxiv-2024-6nm0d-v2)
 
 
@@ -34,8 +40,13 @@ AutoBASS is useable in the automated FINALES mode, where it looks for requests, 
 
 Details can be found in the respective paper.
 
-## Acknowledgements
+# Acknowledgements
 
-This project received funding from the European Union’s Horizon 2020 research and innovation program under grant agreement no. 957189 (BIG-MAP).
-The authors acknowledge BATTERY2030PLUS, funded by the European Union’s Horizon 2020 research and innovation program under grant agreement no. 957213.
-This work contributes to the research performed at CELEST (Center for Electrochemical Energy Storage Ulm-Karlsruhe) and was co-funded by the German Research Foundation (DFG) under Project ID 390874152 (POLiS Cluster of Excellence).
+This project received funding from the European Union’s
+[Horizon 2020 research and innovation programme](https://ec.europa.eu/programmes/horizon2020/en)
+under grant agreement [No 957189](https://cordis.europa.eu/project/id/957189) (BIG-MAP).
+The authors acknowledge BATTERY2030PLUS, funded by the European Union’s Horizon 2020
+research and innovation program under grant agreement no. 957213.
+This work contributes to the research performed at CELEST (Center for Electrochemical
+Energy Storage Ulm-Karlsruhe) and was co-funded by the German Research Foundation (DFG)
+under Project ID 390874152 (POLiS Cluster of Excellence).
