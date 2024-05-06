@@ -27,7 +27,7 @@ Further links:
 [https://doi.org/10.1039/D2DD00046F](https://doi.org/10.1039/D2DD00046F)
 
 1. Apples to Apples: Shift from Mass Ratio to Additive Molecules per Electrode Area to Optimize Li-Ion Batteries  
-_Bojing Zhang, Leon Merker, Monika Vogler, Fuzhan Rahmanian, Helge S. Stein_  
+_Bojing Zhang, Leon Merker, Monika Vogler, Fuzhan Rahmanian, and Helge S. Stein_  
 [10.26434/chemrxiv-2024-6nm0d-v2](10.26434/chemrxiv-2024-6nm0d-v2)
 
 
